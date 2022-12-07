@@ -20,3 +20,4 @@ else {
     console.log("راسب💔");
 }
 
+// JavaScript!= Java
